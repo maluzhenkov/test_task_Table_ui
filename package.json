@@ -5,7 +5,7 @@
   "homepage": "https://maluzhenkov.github.io/test_task_Table_ui",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint",
     "deploy": "gh-pages -d dist"
   },
